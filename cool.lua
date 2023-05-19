@@ -1,1 +1,1 @@
-game:GetService("ProximityPromptService").PromptButtonHoldBegan:Connect(function(prompt)
+game:GetService("ProximityPromptService").PromptButtonHoldBegan:Connect(function)(prompt)
